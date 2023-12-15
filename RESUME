@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title>HELLO</title>
+    </head>
+    <body>
+        <h1><center><u><b>Resume</b></u></center></h1>
+        <div><img src="C:\Users\TEMP.G101-SYS115.013\Desktop\Imran_w8\hi.jpg" height="200" width="200"></div>
+        <h1><b>DETAILS :</b></h1>
+        <ul>
+        <li>NAME : Imran</li>
+        <li>AGE : 20</li>
+        <li>FATHER NAME : gouse basha</li>
+        <li>MOTHER NAME : karima</li>
+        <li>ADDRESS : kurnool road,Ongole</li>
+        </ul>
+        <h1><b>EDUCATION :</b></h1>
+        <ul>
+        <li>PRIMARY EDUCATION : Apex high school</li>
+        <li>SECONDARY EDUCATION : Sri Chaitanya College</li>
+        <li>GRADUATION : QIS College Of Engineering And Technology</li>
+        </ul>
+        <h1><b>SKILLS :</b></h1>
+        <ol>
+            <li>programming languages</li>
+            <li>communication</li>
+            <li>critical thinking </li>
+            <li>problem solving</li>
+        </ol>
+        <h1><b>HABITS :</b></h1>
+        <ol>
+            <li>watching anime</li>
+            <li>reading manga</li>
+            <li>playing cricket</li>
+        </ol>
+
+    </body>
+</html>
